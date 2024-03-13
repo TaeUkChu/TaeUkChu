@@ -9,14 +9,14 @@
   </a>
 </p>
 <h3>✍️ 기술 스택 </h3>
-<h4>⭐ </h4>
+<h4>⭐ Basic ⭐</h4>
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
 </div>
-<h4>⭐⭐ </h4>
+<h4>⭐⭐ Good ⭐⭐</h4>
 <!-- 맞을진 모름 -->
 <div>
   <img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat-square&logoColor=white"/>&nbsp
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>&nbsp
 </div>
 
-<h4>⭐⭐⭐ </h4>
+<h4>⭐⭐⭐ Proficient ⭐⭐⭐</h4>
 <div>
   <img src="https://img.shields.io/badge/Python-6DB33F?style=flat-square&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>&nbsp
@@ -39,10 +39,13 @@
 </div>
 <h3>🧑‍🎓 학력 및 교육 이력 </h3>
 <h4> 학력 </h4>
-| 날짜            	| 학력                	|
-|-----------------	|---------------------	|
-| 2019.02~2023.02 	| 경상국립대학교 졸업 	|
-| 2018.02~2018.07 	| 전북대학교 중퇴     	|
+<div>
+  | 날짜            	| 학력                	|
+  |-----------------	|---------------------	|
+  | 2019.02~2023.02 	| 경상국립대학교 졸업 	|
+  | 2018.02~2018.07 	| 전북대학교 중퇴     	|
+  |                 	|                     	|
+</div>
 
 <h4> 교육 이력 </h4>
 |날짜|교육명|배운 기술 스택|
