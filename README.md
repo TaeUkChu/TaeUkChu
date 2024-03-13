@@ -10,28 +10,28 @@
 </p>
 <h3>✍️ 기술 스택 </h3>
 <h4>⭐ </h4>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>/>&nbsp
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>/>&nbsp
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>/>&nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>/>&nbsp
 
 <h4>⭐⭐ </h4>
 <!-- 맞을진 모름 -->
-<img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=Databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat-square&logoColor=white"/>/>&nbsp
+<img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=Databricks&logoColor=white"/>/>&nbsp
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>/>&nbsp
+<img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>/>&nbsp
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>/>&nbsp
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>/>&nbsp
 
 
 <h4>⭐⭐⭐ </h4>
-<img src="https://img.shields.io/badge/Python-6DB33F?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-6DB33F?style=flat-square&logo=Python&logoColor=white"/>/>&nbsp
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>/>&nbsp
 
 <h4>🗣️ 기타 커뮤니티 툴 </h4>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>/>&nbsp
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>/>&nbsp
 
 <h3>🧑‍🎓 학력 및 교육 이력 </h3>
 <h4> 학력 </h4>
