@@ -5,7 +5,7 @@
 📧 **Email**           c91052137@gmail.com<br>
 </p>
 <h3> 기술 스택 </h3>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
 
 ### 교육 이력
 
