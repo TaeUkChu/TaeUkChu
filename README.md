@@ -3,10 +3,12 @@
 <p>
 📱 **연락처**           010-9105-2137<br>
 📧 **Email**           c91052137@gmail.com<br>
-학습 내용 정리          
+  <div>
+  학습 내용 정리 
   <a href="https://congruous-lifter-7ca.notion.site/0b9b6ce8475643b9b8e9b2ce49f311a6?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
+    </div>
 </p>
 <h3>✍️ 기술 스택 </h3>
 <h4>⭐ Basic ⭐</h4>
